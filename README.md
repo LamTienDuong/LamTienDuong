@@ -1,4 +1,4 @@
-### Hi there 👋
+👋 Hi! I'm Lam Tien Duong. Now, I'm a student of Can Tho University.
 
 <!--
 **LamTienDuong/LamTienDuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
